@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![Keras](https://img.shields.io/badge/Keras-CNN-red)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
@@ -272,7 +271,3 @@ Computer Engineer • Machine Learning Engineer • AI Enthusiast
 GitHub: https://github.com/OsimeSado
 
 ---
-
-## ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
