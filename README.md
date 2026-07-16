@@ -152,6 +152,19 @@ Evaluation metrics include:
 
 ---
 
+# Results
+
+The trained CNN demonstrated strong performance on the maize leaf disease classification task.
+
+| Metric | Value |
+|--------|------:|
+| Training Accuracy | **93%** |
+| Dataset Size | **4,188 Images** |
+| Classes | **4** |
+| Framework | **TensorFlow / Keras** |
+
+The model successfully learned discriminative visual features from maize leaf images, enabling accurate classification of healthy leaves and multiple disease categories.
+
 # Prediction
 
 The trained CNN predicts the disease class of a maize leaf image and returns:
