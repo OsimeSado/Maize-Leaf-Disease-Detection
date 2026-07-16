@@ -238,7 +238,7 @@ Maize_Leaf_Detection.ipynb
 
 ---
 
-# 📷 Sample Workflow
+# Sample Workflow
 
 ```
 
